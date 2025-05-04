@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone the repository
-git clone https://github.com/mom742886/node-mino-app.git
+git clone https://github.com/ismailalkaf/node-mino-app.git
 
 # Navigate into the repository folder
 cd node-mino-app || exit
